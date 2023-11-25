@@ -22,16 +22,16 @@ import image from "../images/socials/About-bg-ps.gif";
 
 
 const description =
-  "I'm a frontend developer studying at Vellore Insitute of Technology , Bhopal. I enjoy creating unique and simplistic user interfaces in creative ways using ReactJs , Tailwind CSS and Figma.";
+  "I'm a Front-end web developer studying at Vellore Insitute of Technology , Bhopal. I enjoy creating unique and simplistic user interfaces in creative ways using HTML , CSS , JavaScript and Electron Js.";
 
 
 const skillsList = [
-  "Figma",
-  "ReactJs",
-  "Tailwind CSS",
+  "HTML",
+  "CSS",
   "JavaScript",
+  "MySQL",
   "c++",
-  "Python",
+  "Java",
 ];
 
 /**
@@ -40,8 +40,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my front-end developer experience I continually look for new and better ways to make tech accessible by all.";
-
+  "Passionate web developer with expertise in front-end and back-end technologies, dedicated to creating dynamic and visually appealing websites. Proficient in HTML, CSS, JavaScript, and experienced in utilizing various frameworks and libraries to deliver responsive and user-friendly web applications.";
 const About = () => {
   return (
     <section className="padding" id="about">
