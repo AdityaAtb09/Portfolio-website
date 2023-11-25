@@ -17,22 +17,22 @@ import image from "../images/socials/projects-ps-bg.gif";
 
 const projectList = [
   {
-    title: "Result Guide",
+    title: "College Information Website",
     description:
-      " Exam preparation guide. This website provides detailed information and book recommendations for candidates taking all forms of Indian government and non-government exams.",
+      "A website which will act as a virtual guide for the students and help them to choose the college of their dreams.",
     url: "",
   },
   {
-    title: "Virtual Book Cafe",
+    title: "E-commerce website",
     description:
-     "Developed and implemented an innovative Virtual Library platform utilizing real-world insights; streamlined book categorization process and facilitated seamless issuance on library cards, resulting in improved user experience and increased engagement.",
+     "This e-commerce website offers convenient shopping opportunities for potential customers and to have instant access to the products or services.",
     url: "",
   },
   {
-    title: "Automobile Website",
+    title: "Anti Cyberbullying web app",
     description:
-      "This website functions as a hub for regional and small start-up businesses, and it offers automobile products and vehicles that can be personalized for exciting excursions.",
-    url: "https://kartikeysharma98281.github.io/project1.github.io/",
+      "This web application will help victim file complaint, get help/advice and talk to expert.",
+    url: "",
   },
 ];
 
