@@ -15,12 +15,12 @@ import Portfolio from "./Components/Portfolio";
 import "./styles.css";
 
 const siteProps = {
-  name: "Prashant Sharma",
-  title: "Frontend Developer",
-  email: "prashhant16@gmail.com",
-  gitHub: "https://github.com/Prashhant16",
+  name: "Aditya Atbhaiya",
+  title: "Web Developer",
+  email: "atbhaiya.aditya08@gmail.com",
+  gitHub: "https://github.com/AdityaAtb09",
   // instagram: "microsoft",
-  linkedIn: "https://www.linkedin.com/in/prashant-sharma-4976b2218",
+  linkedIn: "https://www.linkedin.com/in/aditya-atbhaiya-71b67524a",
   // medium: "",
   // twitter: "microsoft",
   // youTube: "Code",
