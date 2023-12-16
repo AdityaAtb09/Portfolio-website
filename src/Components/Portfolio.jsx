@@ -19,26 +19,27 @@ const projectList = [
   {
     title: "College Information Website",
     description:
-      "A website which will act as a virtual guide for the students and help them to choose the college of their dreams.",
-    url: "",
+      "A website which will act as a virtual guide for the students and help them to choose the college of their dreams.The Tech used in this is HTML/CSS, JavaScript, MySQL."
+      ,
+    url: "https://github.com/AdityaAtb09/CollegeGuide",
   },
   {
     title: "E-commerce website",
     description:
-     "This e-commerce website offers convenient shopping opportunities for potential customers and to have instant access to the products or services.",
-    url: "",
+     "This e-commerce website offers convenient shopping opportunities for potential customers and to have instant access to the products or services.The Tech used in this is HTML/CSS, JavaScript(Django framework), MySQL.",
+    url: "https://github.com/AdityaAtb09/Benemart-Ecommerce-Store",
   },
   {
     title: "Anti Cyberbullying web app",
     description:
-      "This web application will help victim file complaint, get help/advice and talk to expert.",
-    url: "",
+      "This web application will help victim file complaint, get help/advice and talk to expert.The Tech used in this is HTML/CSS, Electron Js",
+    url: "https://github.com/AdityaAtb09/Cyberbullying",
   },
 ];
 
 const Portfolio = () => {
   return (
-    <section className="padding" id="portfolio">
+    <section className="padding" id="portfolio" style={{backgroundColor: "#b4d3ec"}}>
       <h2 style={{ textAlign: "center" }}>Projects</h2>
       <div style={{ display: "flex", flexDirection: "row", paddingTop: "3rem" }}>
         <div style={{ maxWidth: "40%", alignSelf: "center" }}>
